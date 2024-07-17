@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.sect{
+    display: flex;
+}
+.produit{
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    
+}
+.img{
+    width: 100%;
+}
+.price{
+    color: rgb(27, 117, 27);
+}
